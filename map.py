@@ -1,3 +1,9 @@
+'''In Python, a lambda is a small, anonymous (unnamed) function
+defined in a single line using the lambda keyword. Unlike standard 
+functions created with def, a lambda function can contain
+only one expression and automatically returns its result without 
+needing a return statement'''
+
 # a=['Hello','Good','Morning']
 # res = map(len,a)
 # print(list(res))
